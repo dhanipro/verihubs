@@ -20,4 +20,3 @@ dependencies = ["requests"]
 
 [project.urls]
 "Homepage" = "https://blog.dhanipro.com"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
